@@ -25,7 +25,7 @@ to input warping, and the ability to access contextual information, are also des
 
 ## How to get started?
 ```
-git clone git@github.com:philipperemy/tensorflow-multi-dimensional-lstm.git
+git clone https://github.com/philipperemy/tensorflow-multi-dimensional-lstm.git
 cd tensorflow-multi-dimensional-lstm
 
 # create a new virtual python environment
